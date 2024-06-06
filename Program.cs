@@ -1,4 +1,4 @@
-﻿using DesafioPOO.Models;
+using DesafioPOO.Models;
 
 // TODO: Realizar os testes com as classes Nokia e Iphone
 Iphone iphone1 = new Iphone("(11)98758-4733");
